@@ -137,7 +137,7 @@ echo
 while true
 do
 
-echo "====== Student Management System ======"
+echo "====== Student Management System =========="
 echo "1. Add Student"
 echo "2. Search Student"
 echo "3. View All Students"
